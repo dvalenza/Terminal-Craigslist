@@ -1,0 +1,9 @@
+import re 
+import urllib2
+from bs4 import BeautifulSoup
+import os,sys
+import cllib 
+
+x = self.myscreen.getch()
+if ( x == ord('\t')):
+  print "hi"

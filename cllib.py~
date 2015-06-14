@@ -1,0 +1,23 @@
+section=[("community","http://boston.craigslist.org/search/ccc"),
+         ("events","http://boston.craigslist.org/search/eee"),
+         ("for sale","http://boston.craigslist.org/search/sss"),
+         ("gigs","http://boston.craigslist.org/search/ggg"),
+         ("housing","http://boston.craigslist.org/search/hhh"),
+         ("jobs","http://boston.craigslist.org/search/jjj"),
+         ("personals","http://boston.craigslist.org/search/ppp"),
+         ("resumes","http://boston.craigslist.org/search/rrr"),
+         ("services","http://boston.craigslist.org/search/bbb")]
+
+community = [("all","ccc"),
+("activity partners","act"),
+("artists","ats"),
+("childcare","kid"),
+("general","com"),
+("groups","grp"),
+("local news and views","vnn"),
+("lost & found","laf"),
+("musicians","muc"),
+("pets","pet"),
+("politics","pol"),
+("rideshare","rid"),
+("volunteers","vol")]
