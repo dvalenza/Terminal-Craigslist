@@ -4,11 +4,12 @@ Craigslist Terminal
 Craigslist browser for the terminal.
 
 TO RUN: python clterm.py
+
 OR: python clterm.py searchterm
 
 
 Example Output:
-
+```
 bash$ python clterm.py 
 Location: M
 Maine          Manitoba       Massachusetts  Michigan       Mississippi    Montana        
@@ -39,6 +40,6 @@ community: all
 [+]  (dorchester) [<span id="titletextonly">LOST PET ALERT ON FACEBOOK</span>] | http://boston.craigslist.org/search/ccc/gbs/laf/5664557407.html
 [+]  (Chinatown/Downtown Boston) [<span id="titletextonly">meet kerry our gentle female bulldog</span>] | http://boston.craigslist.org/search/ccc/gbs/pet/5702321459.html
 [+]  (Chinatown/Downtown Boston) [<span id="titletextonly">Amazing daycare has openings</span>] | http://boston.craigslist.org/search/ccc/gbs/kid/5702316985
-
+```
 
 ....
